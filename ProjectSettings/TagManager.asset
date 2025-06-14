@@ -11,6 +11,8 @@ TagManager:
   - Biru
   - a
   - Lampu
+  - WayPoint
+  - Waypoint
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - AI
   - 
   - 
   - 
